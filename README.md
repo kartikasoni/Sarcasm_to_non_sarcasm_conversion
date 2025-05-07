@@ -91,7 +91,7 @@ Results Summary
  
 	•	Dropout = 0.3
 
- ## Outputs of the model
+ ## Outputs of the sarcasm interpretation model
 
 
  <img width="805" alt="image" src="https://github.com/user-attachments/assets/fd3f9876-502c-4779-80d5-ac39e1e6bbb9" />
