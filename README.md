@@ -91,4 +91,19 @@ Results Summary
  
 	•	Dropout = 0.3
 
+ ## Outputs of the model
+
+
+ <img width="805" alt="image" src="https://github.com/user-attachments/assets/fd3f9876-502c-4779-80d5-ac39e1e6bbb9" />
+
+ <img width="706" alt="image" src="https://github.com/user-attachments/assets/00f78b72-cf55-477e-a5e9-ecc9dbcffa9a" />
+
+ <img width="706" alt="image" src="https://github.com/user-attachments/assets/f6202f66-6c4a-4df4-9196-a98b9ebecaf4" />
+
+ <img width="720" alt="image" src="https://github.com/user-attachments/assets/434845dc-02a7-4244-a1a0-3bd1e3599636" />
+
+
+
+
+
  
